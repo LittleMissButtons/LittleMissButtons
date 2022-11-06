@@ -8,6 +8,8 @@ I am early on in my studies although looking to progress quickly. My first webpa
 
 I am currently working through FreeCodeCamp ciriculum and looking front to starting Front-End-Foxes course.
 
+[![@littlemissbuttons's Holopin board](https://holopin.me/littlemissbuttons)](https://holopin.io/@littlemissbuttons)
+
 <!--
 **LittleMissButtons/LittleMissButtons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
